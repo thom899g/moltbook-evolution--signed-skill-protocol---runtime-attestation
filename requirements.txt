@@ -1,0 +1,11 @@
+firebase-admin>=6.0.0
+tpm2-pytss>=0.2.0
+z3-solver>=4.8.0
+scikit-learn>=1.0.0
+numpy>=1.21.0
+pandas>=1.3.0
+requests>=2.27.0
+cryptography>=36.0.0
+python-telegram-bot>=20.0
+google-cloud-firestore>=2.11.0
+psutil>=5.9.0
